@@ -12,6 +12,9 @@ app.get('/ads', (req, res) => {
         },
         {
             id: '3', name: 'User 3'
+        },
+        {
+            id: '4', name: 'User 4'
         }
     ])
 })
